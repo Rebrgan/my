@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>blogTest</title>
+</head>
+<body>
+相对路径：
+<img src="images\boat.jpg" width="100" height="100"\>
+绝对路径：
+<img src="http://img.zcool.cn/community/01d881579dc3620000018c1b430c4b.JPG@3000w_1l_2o_100sh.jpg" width="100" height="100"\>
+</body>
+</html>
